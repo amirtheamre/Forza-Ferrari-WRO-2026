@@ -1,4 +1,10 @@
-Team's photos
+
+Team`s Photos
 ====
 
-This directory must contain 2 photos of the team (an official one and one funny photo with all team members)
+This folder contains 2 team photos: 1 unofficial and 1 official.
+
+Командные Фото
+====
+
+Данная папка содержит 2 командных фото: 1  в неофициальном формате  и  1 в официальном.
