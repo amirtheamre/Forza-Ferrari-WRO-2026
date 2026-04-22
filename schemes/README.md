@@ -1,4 +1,9 @@
-Electromechanical diagrams
+Electrodynamic diagrams
 ====
 
-This directory must contain one or several schematic diagrams in form of JPEG, PNG or PDF of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they connect to each other.
+This folder contains an electrodynamic diagram of the robot components, the connection of sensors to the LEGO Spike Prime hub, main block is described in detail.
+
+Электродинамические схемы
+====
+
+Данная папка содержит электродинамическую схему компонентов робота, детально описано соединение датчиков к хабу комплекта LEGO Spike Prime, главному блоку из данного набора.
