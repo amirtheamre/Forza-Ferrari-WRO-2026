@@ -13,6 +13,14 @@ Engineer's Documentation
 * `src` contains the code, the program for all components of the robot with explanations in the code
 * `other` description of how the components were connected to each other and how the interaction is performed
 
+## Our motivation:
+
+ We are two friends and both Formula 1 fans, specifically of the Ferrari team (which is quite evident from our name). Recently, there was a significant event in motorsport, the first race of Formula 1 cars controlled by artificial intelligence (Abu Dhabi Autonomous Racing League (A2RL)). Equally important, this race took place on the track in Abu Dhabi, UAE, one of the most challenging and demanding tracks in terms of driving skills. 
+ 
+ After witnessing this, we became curious about whether it was possible for us to design a vehicle that is also fully autonomous. In the category of Future Engineers, WRO, we will have the opportunity to fully test our ideas with limited access to resources compared to the A2RL races.
+ 
+ As a result, you will be able to see the outcomes of our efforts in this Github repository.
+ 
 ## Introduction
 
  The first version of our robot for participation in the regional qualifiers was created from parts of the LEGO EV3 set, however, faced with major problems and critical errors, we decided to completely reconsider our decision. Later, we discovered the LEGO SPIKE sets, which, unlike the LEGO EV3 set, continued to be supported by LEGO, and the parts of this set were of higher quality compared to the parts of the LEGO EV3 set. 
@@ -42,6 +50,16 @@ Engineer's Documentation
 * `src` содержит код, программу для всех компонентов робота с пояснениями в коде
 * `other` описание того как были соединены компоненты между собой и как производится взаимодействие
 
+ ## Наша мотивация:
+
+ Мы два друга и оба фанаты формулы 1, в частности команды Феррари, (что довольно понятно из нашего названия). И недавно в мотоспорте произошло великое событие, первая гонка среди болидов формулы-1, под управлением искусственного интеллекта (Abu Dhabi Autonomous Racing League (A2RL)). Что не менее важно, данная гонка проходила на трассе в Абу-Даби, ОАЭ, одной из самых сложных и требующих невероятной техники вождения трасс. 
+ 
+ После увиденного нами, нам стало интересно, а возможно ли нам самим сконструировать транспорт, который также полностью автономно. В категории Future Engineers, WRO, мы сможем полностью протестировать наши идеи, в условиях меньшого доступа к ресурсам, нежели в гонках A2RL.
+ 
+ Как итог, вы сможете увидеть результаты наших трудов в данном репозитории Github.
+	
+
+ 
  ## Введение
 
  Первая версия нашего робота для участия на региональных отборчных была создана из деталей набора LEGO EV3, однако столкнувшись с большими проблемами и критическими ошибками нами было принято решение полностью пересмотреть наше решение. Позже мы обнаружили наборы LEGO SPIKE, которые в отличии от набора LEGO EV3 продолжал поддерживаться компанией LEGO, а также детали данного набора были более высокого качества по сравнению с деталями набора LEGO EV3. 
