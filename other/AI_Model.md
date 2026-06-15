@@ -15,6 +15,7 @@ We decided to train the model to distinguish five possible situations:
 That's approximately 2,000 photographs for each situation.
 
 In tests, our model accurately identified the placed signs in 90% of cases.
+
 ====
 
 **ИИ модель для Obstacle Challenge**
