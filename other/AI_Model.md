@@ -16,8 +16,6 @@ That's approximately 2,000 photographs for each situation.
 
 In tests, our model accurately identified the placed signs in 90% of cases.
 
-====
-
 **ИИ модель для Obstacle Challenge**
 ====
  Для создания и обучения нашей модели для Obstacle Challenge мы использовали сайт TeachableMachine. Ссылка на нашу модель: https://teachablemachine.withgoogle.com/models/G2WUK8YVw/
