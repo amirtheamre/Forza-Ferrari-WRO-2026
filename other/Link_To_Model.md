@@ -2,4 +2,3 @@ Since the file with the model itself weighs more than 25 MB, the allowed volume 
 ___
 
 Так как файл с самой моделью весит более 25МБ, разрешенного объема для GitHub`a вы можете получить доступ к ней через копию файла на сервисе Google Drive, ссылка: https://drive.google.com/file/d/112sCy3G7_odzmOSPOTZ9DVzUtfgxwhkO/view?usp=sharing
-___
