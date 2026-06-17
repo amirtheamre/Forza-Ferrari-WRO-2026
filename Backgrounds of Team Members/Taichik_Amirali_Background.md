@@ -1,5 +1,6 @@
 Я Тайчик Амирали - ученик 11-го класса НИШ ЕМН г. Павлодар
 
+<img width="960" height="1280" alt="5301114577263205691" src="https://github.com/user-attachments/assets/9dd48f7e-3a2b-4ecc-8f7d-51fdd8a2b534" />
 
 
 До сегодняшнего дня я участвовал в разных олимпиадах по физике и химии. Также я участвовал в различных конкурсах по робототехнике в пределах Павлодарской области. На WRO 2026 я буду участвовать не первый раз, я уже участвовал на республиканском этапе WRO в категории Future Engineers в 2024 году. В том году я со своим напарником прошли областной отбор и поехали на республиканский, к сожалению на том этапе у нас не было хорошего результата, но зато я получил огромное количество опыта который помог мне при подготовке к WRO 2026. В 2025 я начал сомневаться, хочу ли я продолжать заниматься в данном направлении, так как занимаясь робототехникой с начала 7-го класса я не добился высот на международной арене. В частности из-за моих сомнений насчет моего развития в робототехнике и выбора другого, хим-био профиля я провел 2025 год в стагнации. 
@@ -8,7 +9,7 @@
 
  ___
 
- I am Taychik Amirali, an 11th-grade student at the NIS EMN in Pavlodar.
+ I am Taichik Amirali, an 11th-grade student at the NIS EMN in Pavlodar.
 
  Until now, I've participated in various physics and chemistry Olympiads. I've also competed in various robotics competitions within the Pavlodar region. This isn't my first time competing in WRO 2026; I already competed in the national stage of WRO in the Future Engineers category in 2024. That year, my partner and I passed the regional selection and went to the national stage. Unfortunately, we didn't achieve good results at that stage, but I gained a wealth of experience that helped me prepare for WRO 2026. In 2025, I began to doubt whether I wanted to continue in this field, as I had been studying robotics since the beginning of 7th grade and hadn't achieved any significant international success. In particular, because of my doubts about my development in robotics and my choice of a different major, chemistry and biology, I spent 2025 in stagnation.
 
