@@ -1,6 +1,16 @@
-Я Амир - ученик 11-го класса НИШ ЕМН г. Павлодар
-фото:
+Я Талгат Амир - ученик 11-го класса НИШ ЕМН г. Павлодар
+
+<img width="853" height="1280" alt="image" src="https://github.com/user-attachments/assets/20db8f97-3983-465c-bc60-614037fb874e" />
+
 До участия на WRO я занимался олимпиадами по математике и занимал призовые места на олимпиадах. В 2025 году я узнал про конкурс WRO и то что он активно поддерживался национальными организаторами в Казахстане и тогда я впервые поучаствовал на нем. Договорившись с другом, который хорошо разбирался в физике и интересовался автоспортом, я посчитал что из нас получится хороший дуэт. Он будет инженером нашего автомобиля, а я программистом, ведь этого мне казалось достаточно для моего первого участия на WRO Future Engineers. Мне было очень интересно, ведь до этого мне казалось что робототехника очень тяжелая и необходимо заниматься этим минимум несколько месяцев чтобы сделать базовые проекты, как я видел это по примеру моих менторов. Всему приходилось учиться на месте и по мере необходимости. Чего и следовало ожидать мы не заняли почетных мест, тогда мы заняли 11 из 14-ти мест, но я получил ценный опыт.
 На следующий год, 2026 год, я начинал готовиться с самого начала года. Договорившись с одним из робототехников моей школы, мы начали работу с самой публикации правил нового сезона. Чем больше я начинал знать о конструкции робота, тем меньше я понимал. Насчет умной камеры мы сразу договорились не вспоминать, ибо не могли ее позволить, а наша школа не могла позволить себе поддержку робототехников без значимых наград. При каждом прорыве возникали трудности, без них наш путь был бы менее поучительным для самих же нас. И мы в последний раз выступим на сцене WRO в этом 2026 году.
 
+___
+
+I am Talgat Amir - a student of the 11th grade of NIS NMD, Pavlodar
+
+<img width="853" height="1280" alt="image" src="https://github.com/user-attachments/assets/20db8f97-3983-465c-bc60-614037fb874e" />
+
+Before participating in WRO, I participated in mathematics olympiads and won prizes. In 2025, I learned about the WRO competition and that it was actively supported by national organizers in Kazakhstan, and that was my first time participating. I made a deal with a friend who was well-versed in physics and interested in motorsports, and I figured we'd make a good duo. He would be the engineer for our car, and I would be the programmer, which seemed like enough for my first participation in WRO Future Engineers. I was very interested, because before that, I'd thought robotics was very difficult and required at least several months of study to complete basic projects, as I saw from the example of my mentors. I had to learn everything on the spot and as needed. As expected, we didn't place highly—we finished 11th out of 14—but I gained valuable experience.
+The following year, 2026, I started preparing from the very beginning. Having reached an agreement with one of my school's roboticists, we began work right from the moment we published the rules for the new season. The more I learned about the robot's design, the less I understood. We immediately agreed to forget about the smart camera, as we couldn't afford it, and our school couldn't afford to support roboticists without significant awards. With every breakthrough, difficulties arose, and without them, our journey would have been less instructive for us. And we will perform on the WRO stage for the last time in 2026.
 
